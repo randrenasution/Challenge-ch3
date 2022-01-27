@@ -1,0 +1,270 @@
+.Section-Headline {
+    background-image: url('main-bg.jpg');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    }
+
+.navbar-brand {
+    font-color: yellow;
+    font-style: normal;
+    font-size: larger;
+    font-family: "Open Sans";
+    
+    }
+
+.navbar-right {
+    margin-left: 700px;
+}
+
+.headline-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translateX(-50%) translateY(-50%);
+    width: 80%;
+        }
+.content-title {
+    color: white;
+    font-size: 80px;
+    text-transform: uppercase;
+    margin-top: 100px;
+    font-family: arial;
+}
+
+.content-description {
+    color: white;
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+    background-color: orange;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 50px;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.content-bottom {
+    color: white;
+    margin-top: 200px;
+    font-family: "Open Sans";
+    font-weight: bold;
+}
+
+.nav-link {
+    font-family: "Open Sans";
+}
+
+
+.section-two {
+    background-image: url("the-games-bg.jpg");
+    background-size: cover;
+    height: 100vh;
+  }
+  h3.display-2 {
+      color: white;
+      font-size: 24px;
+      font-weight: 400px;
+      position: relative;
+      top: 110px;
+      font-family: arial;
+
+      
+  }
+ h1.display-3 {
+     color: white;
+     font-size: 56px;
+     position: relative;
+     top: 110px;
+     font-family: arial;
+
+
+ }  
+.gunting {
+    background-image: url("rockpaperstrategy-1600.jpg");
+    background-size:cover;
+    width: 858px;
+    height: 477px;
+    position: relative;
+    top: 50px;
+    left: 350px;
+
+}
+.toggle-kiri {
+    position: relative;
+    left: -30px;
+    top: 220px;
+}
+
+.toggle-kanan {
+    position: relative;
+    left: 845px;
+    top: 225px;
+}
+
+.circle-1 {
+position: relative;
+top: 420px;
+left: 250px;
+
+}
+.circle-2 {
+    position: relative;
+    top: 420px;
+    left: 300px;
+}
+
+.circle-3 {
+    position: relative;
+    top: 420px;
+    left: 360px;
+}
+
+.circle-4 {
+    position: relative;
+    top: 420px;
+    left: 420px;
+}
+
+.circle-5 {
+    position: relative;
+    top: 420px;
+    left: 480px;
+  
+}
+
+.section-three {
+    background-image: url("features.jpg");
+    background-size: cover;
+    height: 150vh;
+    
+}
+
+
+
+.text-1 {
+    position: relative;
+    left:950px;
+    top: 300px;
+    color: white;
+    font-size: 24px;
+    weight: 400;
+    font-family: arial;
+    font-style: normal;
+    line-height: 27.6px;
+
+}
+
+.text-2 {
+    position: relative;
+    left: 950px;
+    top: 300px;
+    color: white;
+    font-size: 60px;
+    weight: 400;
+    font-family: arial;
+    font-style: normal;
+    line-height: 64.39px;
+    letter-spacing: 3px;
+}
+
+.text-3 {
+    position: relative;
+    left: 1000px;
+    top: 600px;
+    color: orange;
+    font-family: arial;
+    font-weight: 400;
+}
+
+.text-4 {
+    position: relative;
+    left: 1000px;
+    top: 600px;
+    color: white;
+}
+
+.text-5 {
+    position: relative;
+    left: 1000px;
+    top: 600px;
+    color: white;
+}
+
+.text-6 {
+    position: relative;
+    left: 1000px;
+    top: 650px;
+    color: orange;
+    font-family: arial;
+    font-weight: 400;
+}
+
+.text-7 {
+    position: relative;
+    left: 1000px;
+    top: 700px;
+    color: orange;
+    font-family: arial;
+    font-weight: 400;
+}
+.round-1 {
+    position: relative;
+    top: 400px;
+    left: 950px;
+
+}
+.round-2 {
+    position: relative;
+    top: 570px;
+    left: 928px;
+
+}
+
+.round-3 {
+    position: relative;
+    top: 660px;
+    left: 909px;
+}
+
+.path {
+    position: relative;
+    top: 100px;
+    left: 700px;
+    color: orangered;
+}
+
+.section-four {
+    background-image: url("requirements.png");
+    background-size: cover;
+    height: 150vh;
+}
+
+.text-center {
+    color: white;
+    font-size: 14px;
+    font-family: Arial;
+    position: relative;
+    top: 145px;
+
+}
+.sistem {
+    position: relative;
+    bottom: 900px;
+    color: white;
+    font-size: 56px;
+    left: 300px;
+    font-family: Arial;
+
+}
+
